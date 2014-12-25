@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc function
- * @name spacePlannerClientApp.controller:MainCtrl
+ * @name spacePlannerClientApp.controller:AboutController
  * @description
- * # MainCtrl
+ * # AboutController
  * Controller of the spacePlannerClientApp
  */
 angular.module('spacePlannerClientApp')
-  .controller('MainCtrl', function ($scope) {
+  .controller('MainController', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
